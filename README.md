@@ -2,7 +2,7 @@
 
 # My Shopping Cart
 
-<img width="1440" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156421357-fc48d703-2705-4551-aaee-a89e0c5cf5a1.png">
+<img width="100%" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156421357-fc48d703-2705-4551-aaee-a89e0c5cf5a1.png">
 
 <a href="https://user-images.githubusercontent.com/53157290/156421028-5463a81d-5df8-4ed4-8a5d-4b9ad65a7b52.mov
 " title="React.js Shopping Cart"><img src="https://user-images.githubusercontent.com/53157290/156421357-fc48d703-2705-4551-aaee-a89e0c5cf5a1.png" alt="luxury british shoes shopping cart page" /></a>
