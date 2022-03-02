@@ -1,38 +1,128 @@
-.App {
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #efefef;
+}
+
+.body {
+  background-color: #efefef;
+}
+
+.md-font {
+  font-family: 'Spectral', serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: 4px;
+  color: #1c1b1b;
+}
+
+.sm-font-black {
+  font-family: 'Spectral', serif;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 2.4px;
+  color: #1c1b1b;
+}
+
+.sm-font-white {
+  font-family: 'Spectral', serif;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 2.4px;
+  color: #ffffff;
+}
+
+.sm-font-grey {
+  font-family: 'Spectral', serif !important;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+  letter-spacing: 2.2px !important;
+  color: #6a6a6a !important;
+}
+
+.border-none {
+  border-top: none !important;
+}
+
+.dm-font {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  color: rgb(106, 106, 106);
+}
+
+.center {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.hidden {
+  visibility: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.margin-check {
+  display: inline-block;
+  position: relative;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.margin-check:after {
+  position: absolute;
+  content: '';
+  border-bottom: 2px solid #dee2e6;
+  width: 97%;
+  transform: translateX(-50%);
+  bottom: -1rem;
+  left: 50%;
+}
+
+.block {
+  display: block;
+}
+
+.checkout-button {
+  background-color: #2a1a46;
+  border: none;
+  outline: 0;
+  padding: 1rem 2rem;
+}
+
+textarea {
+  border: 1px solid #dee2e6;
+  outline: 0;
+  padding: 12px 14px;
+  width: 340px;
+  resize: none;
+}
+
+.btn-quantity {
+  max-width: 100px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  padding: 0;
 }
 
-.App-link {
-  color: #61dafb;
+.add-margin-left {
+  margin-left: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.add-margin-top {
+  margin-top: 3rem;
 }
+
+.smest-font-grey {
+  font-family: 'Spectral', serif !important;
+  font-weight: 500 !important;
+  font-size: 8px !important;
+  letter-spacing: 2.2px !important;
+  color: #6a6a6a !important;
+}
+
+.border-remove {
+  border: none;
+  padding: 1px !important;
+  border-radius: 0 !important;
+  outline: none;
+  border-bottom: 1px solid #6a6a6a;
+  cursor: pointer;
+}
+
