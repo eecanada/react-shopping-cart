@@ -1,14 +1,18 @@
 # React-Shopping-Card
 
-- My Shopping Cart
+# My Shopping Cart
+
   <img width="1440" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156417506-24179130-f9f9-4800-8d28-f0faec1e8cdd.gif">
 
-- The Noble Shoe's Shopping Cart
-  <img width="1440" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156418228-bec4baa6-945e-4888-b4e9-b706521eb2b9.png">
+<a href="https://user-images.githubusercontent.com/53157290/156421028-5463a81d-5df8-4ed4-8a5d-4b9ad65a7b52.mov
+" title="React.js Shopping Cart"><img src="https://user-images.githubusercontent.com/53157290/156421357-fc48d703-2705-4551-aaee-a89e0c5cf5a1.png" alt="luxury british shoes shopping cart page" /></a>
+
+<!-- # The Noble Shoe's Shopping Cart
+  <img width="1440" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156418228-bec4baa6-945e-4888-b4e9-b706521eb2b9.png"> -->
 
 # Description
 
-- This is a React.js shopping cart I built that resembles the shopping cart functionality and look of an e-commerce shoe business called the [The Noble Shoe](https://www.thenobleshoe.com/)
+- This is a React.js shopping cart I built that resembles the shopping cart functionality and look of an e-commerce shoe business called the [The Noble Shoe](https://www.thenobleshoe.com/).
 
 # Technologies Used
 
