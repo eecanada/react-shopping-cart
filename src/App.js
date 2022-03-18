@@ -115,7 +115,7 @@ class App extends Component {
           />
         </main>
 
-        <div className="container d-flex justify-content-between mt-5">
+        <div className="container d-flex justify-content-between mt-5 notes-checkout">
           <div>
             <p className="sm-font-black">Add Order Note</p>
             <textarea
@@ -125,7 +125,7 @@ class App extends Component {
               className="sm-font-black"
             />
           </div>
-          <div className="d-flex flex-column align-items-end ">
+          <div className="d-flex flex-column align-items-end price-checkout">
             <p className="sm-font-black">TOTAL: £{this.formatTotalPrice()}</p>
             <p className="sm-font-grey shipping-text">{`Shipping & taxes calculated at checkout`}</p>
             <button className="checkout-button sm-font-white hbtn hb-fill-right">

@@ -187,3 +187,33 @@ textarea {
     width: 285px;
   }
 }
+
+@media screen and (max-width: 576px) {
+  .notes-checkout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  textarea {
+    width: 350px;
+  }
+  .shipping-text {
+    margin-left: 4rem;
+  }
+}
+
+@media screen and (max-width: 575px) {
+
+  .price-checkout{
+    align-items: center !important;
+  }
+  .shipping-text {
+    margin-left: 0  !important;
+  }
+  .hbtn{
+    padding: 1rem 5rem !important;
+    margin-bottom: 2rem;
+  }
+}
