@@ -23,7 +23,7 @@
 
 # Getting Started
 
-[Click to visit page](https://react-shopping-cart-shoes.netlify.app/)
+[Click to visit page](https://thenobleshoe.netlify.app/)
 
 - The user clicks on the link above and loads a page with four shoes in their shopping cart.
 
