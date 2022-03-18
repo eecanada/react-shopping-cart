@@ -1,6 +1,4 @@
-# React-Shopping-Card
-
-# My Shopping Cart
+# React-Shopping-Cart
 
 <img width="100%" alt="gif of my project" src="https://user-images.githubusercontent.com/53157290/156421357-fc48d703-2705-4551-aaee-a89e0c5cf5a1.png">
 
@@ -19,7 +17,7 @@
 - JavaScript
 - CSS3
 - HTML5
-- React
+- React.js
 - Bootstrap
 - Netlify
 
