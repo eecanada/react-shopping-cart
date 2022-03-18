@@ -10,6 +10,7 @@ class Counter extends Component {
             style={{ maxWidth: '100px', margin: '0.5rem' }}
             src={this.props.counter.img}
             alt="tan british shoes"
+            className='shoe-image'
           />
         </div>
 
