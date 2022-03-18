@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Counter extends Component {
   render() {
     return (
-      <div className="row">
+      <div className="row product-row">
         {/* ------------------------------------------------------------------------------------------------------------ */}
         <div className="col-1">
           <img

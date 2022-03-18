@@ -174,9 +174,9 @@ textarea {
   margin-left: 74px;
 }
 
-@media screen and (max-width:991px ){
+@media screen and (max-width: 991px) {
   .shoe-image {
-    margin-left: -2.0rem !important;
+    margin-left: -2rem !important;
   }
 }
 
@@ -192,7 +192,6 @@ textarea {
   textarea {
     width: 285px;
   }
- 
 }
 
 @media screen and (max-width: 576px) {
@@ -221,5 +220,11 @@ textarea {
   .hbtn {
     padding: 1rem 5rem !important;
     margin-bottom: 2rem;
+  }
+  .shoe-image {
+    max-width: 75px;
+  }
+  .product-row{
+    margin-left: .5rem
   }
 }
