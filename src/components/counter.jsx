@@ -57,7 +57,7 @@ class Counter extends Component {
         </div>
         {/* ------------------------------------------------------------------------------------------------------------ */}
         <div className="d-flex align-items-center justify-content-center">
-          <p style={{marginLeft:'74px'}} className="sm-font-grey ">£{this.formatPrice()}</p>
+          <p style={{marginLeft:'74px'}} className="sm-font-grey price">£{this.formatPrice()}</p>
         </div>
       </div>
     );

@@ -126,7 +126,6 @@ textarea {
   cursor: pointer;
 }
 
-
 .hbtn {
   position: relative;
   box-sizing: border-box;
@@ -169,4 +168,22 @@ textarea {
   color: rgb(0, 0, 0);
   background: rgb(255, 255, 255);
   transition: color 0.3s ease 0s, background 0s ease 0.3s;
+}
+
+.price {
+  margin-left: 74px;
+}
+
+@media screen and (max-width: 768px) {
+  .price {
+    margin: 0 !important;
+  }
+
+  .shipping-text {
+    margin-left: 1rem;
+    text-align: end;
+  }
+  textarea {
+    width: 285px;
+  }
 }

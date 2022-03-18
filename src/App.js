@@ -127,7 +127,7 @@ class App extends Component {
           </div>
           <div className="d-flex flex-column align-items-end ">
             <p className="sm-font-black">TOTAL: £{this.formatTotalPrice()}</p>
-            <p className="sm-font-grey">{`Shipping & taxes calculated at checkout`}</p>
+            <p className="sm-font-grey shipping-text">{`Shipping & taxes calculated at checkout`}</p>
             <button className="checkout-button sm-font-white hbtn hb-fill-right">
               CHECKOUT
             </button>
